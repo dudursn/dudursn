@@ -26,17 +26,18 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" >
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-	<img align="center" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" >
+	<br>
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 
 </div>
 
@@ -48,7 +49,6 @@ Here are some ideas to get you started:
 
  <a href="https://gitlab.com/dudursn" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
  <a href="https://www.linkedin.com/in/eduardo-roger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
   <a href="https://instagram.com/eduardoroger_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   
 
