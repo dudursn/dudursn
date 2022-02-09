@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudursn&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-
+<!-- 
+Badges => https://dev.to/envoy_/150-badges-for-github-pnk
+-->
 
 <div style="display: inline_block"><br>
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" >
@@ -35,9 +37,11 @@ Here are some ideas to get you started:
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" >
-	<br>
+	<br><br>
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 	<img align="center" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+	<img align="center" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
+	
 
 </div>
 
