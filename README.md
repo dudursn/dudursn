@@ -56,6 +56,6 @@ Badges => https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://instagram.com/eduardoroger_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
    
 
-  ![Snake animation](https://github.com/dudursn/dudursn/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/dudursn/dudursn/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
